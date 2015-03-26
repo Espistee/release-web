@@ -1,1 +1,3 @@
-# Bonjours! Vous êtes sur mon Github, de nouvelles releases arriverons d'ici peu!
+# Bonjours! Bienvenu sur mon GitHub, ici vous trouverez mes différents projets en cours.
+        --WEB CMS:
+          SansNomEncore, Bientôt release.
